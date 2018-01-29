@@ -1,0 +1,272 @@
+@media only screen and (max-width: 735px) {
+    .main #section-heroes .homepage-section-positions > .homepage-section-item .iphone-x-preorder .unit-copy-wrapper .preorder-links li:first-child {
+	    padding-right: 5px
+	}
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .iphone-x-buy .unit-copy-wrapper .preorder-links{
+	min-width: 164px;
+	}
+}
+
+.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+	background-image: url("https://images.apple.com/sg/home/images/watch_series_3_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_large_2x.png")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_medium.png")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_medium_2x.png")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_small.png")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-heroes .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .logo-image-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_small_2x.png")
+	}
+
+}
+
+
+.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+	background-image: url("https://images.apple.com/sg/home/images/watch_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_large_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_medium.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_medium_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_small.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_small_2x.jpg")
+	}
+
+}
+
+@media only screen and (min-width:1069px) and (min-height:778px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_largetall.jpg")
+	}
+
+}
+
+@media only screen and (min-width:1069px) and (min-height:778px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-width:1069px) and (min-height:778px) and (min-resolution:1.5dppx), only screen and (min-width:1069px) and (min-height:778px) and (min-resolution:144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_largetall_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (min-width:736px) and (min-height:736px) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_mediumtall.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (min-width:736px) and (min-height:736px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-width:736px) and (min-height:736px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-width:736px) and (min-height:736px) and (min-resolution:144dpi) {
+	.main #section-heroes .unit-image-wrapper .unit-image.image-size-static.unit-image-apple-watch-watch {
+		background-image: url("https://images.apple.com/sg/home/images/watch_mediumtall_2x.jpg")
+	}
+
+}
+
+
+.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+	background-image: url("https://images.apple.com/sg/home/images/tv_4k_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+		background-image: url("https://images.apple.com/sg/home/images/tv_4k_large_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+		background-image: url("https://images.apple.com/sg/home/images/tv_4k_medium.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+		background-image: url("https://images.apple.com/sg/home/images/tv_4k_medium_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+		background-image: url("https://images.apple.com/sg/home/images/tv_4k_small.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-tv-4k {
+		background-image: url("https://images.apple.com/sg/home/images/tv_4k_small_2x.jpg")
+	}
+
+}
+
+.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+	background-image: url("https://images.apple.com/sg/home/images/ipad_pro_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+		background-image: url("https://images.apple.com/sg/home/images/ipad_pro_large_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+		background-image: url("https://images.apple.com/sg/home/images/ipad_pro_medium.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+		background-image: url("https://images.apple.com/sg/home/images/ipad_pro_medium_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+		background-image: url("https://images.apple.com/sg/home/images/ipad_pro_small.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-ipad-pro {
+		background-image: url("https://images.apple.com/sg/home/images/ipad_pro_small_2x.jpg")
+	}
+
+}
+
+.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+	background-image: url("https://images.apple.com/sg/home/images/watch_series_3_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_large_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_medium.jpg")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_medium_2x.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_small.jpg")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-promos .unit-image-wrapper .unit-image.image-size-static.unit-image-watch-series-3 {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_small_2x.jpg")
+	}
+
+}
+
+.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+	background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_large.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-resolution:1.5dppx), (-webkit-min-device-pixel-ratio:1.5), (min-resolution:144dpi) {
+	.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_large_2x.png")
+	}
+
+}
+
+@media only screen and (max-width:1068px) {
+	.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_medium.png")
+	}
+
+}
+
+@media only screen and (max-width:1068px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:1068px) and (min-resolution:1.5dppx), only screen and (max-width:1068px) and (min-resolution:144dpi) {
+	.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_medium_2x.png")
+	}
+
+}
+
+@media only screen and (max-width:735px) {
+	.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_small.png")
+	}
+
+}
+
+@media only screen and (max-width:735px) and (-webkit-min-device-pixel-ratio:1.5), only screen and (max-width:735px) and (min-resolution:1.5dppx), only screen and (max-width:735px) and (min-resolution:144dpi) {
+	.main #section-promos .homepage-section-positions>.homepage-section-item .apple-watch-series-3 .unit-header {
+		background-image: url("https://images.apple.com/sg/home/images/watch_series_3_promo_small_2x.png")
+	}
+
+}
